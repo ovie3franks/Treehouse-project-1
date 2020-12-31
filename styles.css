@@ -70,7 +70,7 @@ header .profile-image {
   width: 150px;
   height: 150px;
   border-radius: 50%;
-  border: 3px solid black;
+  border: 3px solid peachpuff;
   transition: all .5s;
 }
 header .profile-image:hover {
@@ -205,3 +205,11 @@ a.social:hover {
 
 }
 
+.gallery-pics {
+  margin-top: 50px;
+  width: 300px;
+  height: 300px;
+  border-radius: 30%;
+  border: 3px solid black
+
+} 
